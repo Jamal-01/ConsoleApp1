@@ -12,6 +12,9 @@ class Gladiator
 {
     public void Orujie(Ekiperovka ekiperovka)
     {
+
+
+
         ekiperovka.Orujie();
     }
 }
