@@ -69,6 +69,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        
+
         Gladiator gladiator = new Gladiator();
         Mech mech = new Mech();
         Trezubec trezubec = new Trezubec();
